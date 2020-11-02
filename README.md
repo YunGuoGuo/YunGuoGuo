@@ -1,7 +1,7 @@
 ## Hi there 👋
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=YunGuoGuo&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 
-####  一个互联网行业的'废物'打工人🥺
+####  我是一个互联网行业的'废物'打工人🥺
 * Linux 初学者🧑🏻‍💻
 * Python 初学者🧑🏻‍💻
 * 前端 初学者🧑🏻‍💻
