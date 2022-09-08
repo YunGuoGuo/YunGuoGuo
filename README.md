@@ -2,10 +2,6 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=YunGuoGuo&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 
 ####  我是云蝈蝈，一个互联网行业的'废物'打工人🥺
-* 前端 初学者🧑🏻‍💻
-* Linux 初学者🧑🏻‍💻
-* Python 初学者🧑🏻‍💻
-* 爬虫 爱好者🧑🏻‍💻
 * 干啥啥不行，吃饭第一名🌚
 
 <!--
